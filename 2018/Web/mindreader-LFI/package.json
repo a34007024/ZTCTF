@@ -1,0 +1,16 @@
+{
+  "name": "mindreader-lfi",
+  "version": "1.0.0",
+  "main": "YVXhybPMLgYYMkMbBJzeeNqGRxWUsBWY.js",
+  "scripts": {
+    "start": "node YVXhybPMLgYYMkMbBJzeeNqGRxWUsBWY.js"
+  },
+  "keywords": [
+    "LocalFileInclude",
+    "LFI",
+    "CTF"
+  ],
+  "author": "ZoneTwelve",
+  "license": "ISC",
+  "description": ""
+}
