@@ -1,0 +1,19 @@
+{
+  "name": "previewengine-ssrf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ServerSideRequestForgery",
+    "SSRF",
+    "CTF"
+  ],
+  "author": "ZoneTwelve",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
