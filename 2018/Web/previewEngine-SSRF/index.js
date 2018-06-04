@@ -8,7 +8,7 @@ const notFoundPage = fs.readFileSync("404.html", 'utf8');
 
 const userAgent = 'SSRF-CTF-request key:'+require('./randomString')();
 
-const serverPort = 80;
+const serverPort = 3032;
 
 app.use('/', function(req, res){
   if(req.headers['user-agent']!==userAgent){
